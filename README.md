@@ -1,23 +1,17 @@
-# Application Name
-Short summary
+# SimpleHex
+A simplistic and easy-to-use hex color generator
 
 ## Installation
-Installation instructions
-
-## Usage
-Usage instructions
+1) Download the appropriate .exe file.
+2) Launch the .exe and click generate until you find a color you like.
 
 ## Changelog
-### vX.Y.Z:
-One-sentence summary
+### v0.0.1 (Current Release):
+Initial Release
     
     New Features: 
-        - List
-        - Of
-        - New
-        - Features
+        - Generate button generates a color.
+        - Text field changes depending on the generated color.
+        - Copy to clipboard button copies the current color hex code.
     Bug Fixes: 
-        - List
-        - Of
-        - Issue
-        - Links
+        N/A
